@@ -27,8 +27,11 @@ Open `index.html` in a web browser. No backend or installation is required.
 ## Contribution file requirements
 Your file should include:
 - P.Pujitha/25B11DS454
-- Three Git commands and what they do
-- The purpose of GitHub
-- One benefit of using branches
+- Three git commands
+  * git clone — Repository ni remote nunchi computer loki copy cheyyadaniki.
+  * git add — Changes ni commit cheyyadaniki prepare cheyyadaniki.
+  * git commit — Changes ni message tho local repository lo save cheyyadaniki.
+- The purpose of GitHub---GitHub is a platform used to store, manage, and share code online. It helps developers collaborate on projects and track changes
+- One benefit of using branches---Branches allow developers to work on new features or changes separately without affecting the main branch.
 
 **Important:** Replace placeholders with appropriate information. Do not publish passwords, access tokens, API keys, home addresses, or other sensitive information.
