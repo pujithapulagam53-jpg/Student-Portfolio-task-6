@@ -26,7 +26,7 @@ Open `index.html` in a web browser. No backend or installation is required.
 
 ## Contribution file requirements
 Your file should include:
-- Name and roll number
+- P.Pujitha/25B11DS454
 - Three Git commands and what they do
 - The purpose of GitHub
 - One benefit of using branches
